@@ -1,0 +1,24 @@
+.ABC{
+    background-color: blue;
+    padding: 50px;
+    border:10px tomato solid;
+    margin:100px
+  
+}
+.DEF{
+    background-color:yellow;
+    border-color: tomato;
+    padding: 50px;
+    border:10px tomato solid;
+    margin:50px
+    
+}
+.GHI{
+    background-color:pink;
+    border-color: tomato;
+    padding: 50px;
+    border:10px tomato solid;
+    margin:100px
+    
+
+}
